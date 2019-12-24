@@ -19,5 +19,6 @@ Data’s true power lies in its ability to answer questions definitively.  The p
 The analysis was completed using Jupyter notebook.  In the Jupyter notebook there are a couple of scatter plots showcase the weather relationship.
 
 •	As expected, the weather becomes significantly warmer as one approaches the equator.  More interestingly, however, is the fact that the southern hemisphere tends to be warmer this time of the year than the northern hemisphere.  This may be due to the tilt of the earth.
+
 •	There is no strong relationship between the latitude and cloudiness, however, it is interesting to see that a strong band of cities sit at 0, 80 and 100% cloudiness.  
 
