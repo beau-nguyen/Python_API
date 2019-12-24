@@ -1,4 +1,5 @@
 ## Python API Project___WeatherPy!
+
 Data’s true power lies in its ability to answer questions definitively.  The purchase of this project is creating a Python script to visualize the weather of 500 plus cities across the world of varying distance from the equator.  I will be utilizing a Python library and OpenWeaterMap API to create a model of weather across cities.  
 
 # Methods Used
